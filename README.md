@@ -12,7 +12,7 @@ DURATION:    4 WEEKS
 
 MENTOR:    NEELA SANTOSH
 
-OUTPUT:    ![Image](https://github.com/user-attachments/assets/af2fd8db-ae41-4622-ba8c-a007e58849b2)
+OUTPUT:    ![Image](https://github.com/user-attachments/assets/d82754dd-768d-4d07-b892-66657d4dd0f3)
 
 Task 4: Advanced Encryption Tool – DESCRIPTION
 
